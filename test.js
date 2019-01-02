@@ -8,6 +8,10 @@ function one() {
   console.log('one')
 }
 
+function tow() {
+  console.log('tow')
+}
+
 function upload() {
   console.log(' new feature upload !')
 }
