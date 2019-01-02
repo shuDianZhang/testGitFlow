@@ -11,3 +11,7 @@ function one() {
 function two() {
   console.log('two')
 }
+
+function three() {
+  
+}
