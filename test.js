@@ -5,5 +5,9 @@ function master() {
 }
 
 function xiaoming() {
+
+}
+
+function xiaohong() {
   
 }
