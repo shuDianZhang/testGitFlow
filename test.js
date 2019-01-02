@@ -4,11 +4,10 @@ function master() {
   console.log('master - fix')
 }
 
-function xiaoming() {
-  console.log('can drink')
-  console.log('can drink lots of')
+function one() {
+  console.log('one')
 }
 
-function xiaohong() {
-  console.log('can drink')
+function two() {
+  console.log('two')
 }
