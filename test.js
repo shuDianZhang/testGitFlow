@@ -3,3 +3,7 @@ function master() {
   console.log('master')
   console.log('master - fix')
 }
+
+function one() {
+  console.log('one')
+}
