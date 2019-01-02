@@ -5,9 +5,10 @@ function master() {
 }
 
 function xiaoming() {
-
+  console.log('can drink')
+  console.log('can drink lots of')
 }
 
 function xiaohong() {
-  
+  console.log('can drink')
 }
