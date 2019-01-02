@@ -9,7 +9,7 @@ function one() {
 }
 
 function tow() {
-  console.log('tow9999999')
+  console.log('tow22232')
 }
 
 function upload() {
