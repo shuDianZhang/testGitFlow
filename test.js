@@ -25,3 +25,5 @@ function version1 () {
 }
 
 function version2 () {}
+
+function version3() {}
