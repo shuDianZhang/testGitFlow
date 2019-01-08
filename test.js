@@ -23,3 +23,7 @@ function testDev() {
 function mergeMaster() {
   
 }
+
+function merge1() {
+  
+}
