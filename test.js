@@ -21,5 +21,7 @@ function merge1() { }
 function merge2 () { }
 
 function version1 () {
-  
+
 }
+
+function version2 () {}
