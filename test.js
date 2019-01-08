@@ -8,26 +8,18 @@ function one() {
   console.log('one')
 }
 
-function two() {
-  console.log('two')
-}
+function two() { console.log('two') }
 
-function three1() {
+function three1() { }
 
-}
+function testDev() { }
 
-function testDev() {
+function mergeMaster() { }
 
-}
+function merge1() { }
 
-function mergeMaster() {
-  
-}
+function merge2 () { }
 
-function merge1() {
-
-}
-
-function merge2 () {
+function version1 () {
   
 }
