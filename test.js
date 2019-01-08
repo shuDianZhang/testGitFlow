@@ -19,3 +19,7 @@ function three1() {
 function testDev() {
 
 }
+
+function mergeMaster() {
+  
+}
