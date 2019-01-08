@@ -1,17 +1,33 @@
 function master() {
   var a = 0
   console.log('master')
-  console.log('master - 1')
+  console.log('master - fix')
 }
 
 function one() {
   console.log('one')
 }
 
-function tow() {
-  console.log('tow22232')
+function two() {
+  console.log('two')
 }
 
-function upload() {
-  console.log(' new feature upload !')
+function three1() {
+
+}
+
+function testDev() {
+
+}
+
+function mergeMaster() {
+  
+}
+
+function merge1() {
+
+}
+
+function merge2 () {
+  
 }
