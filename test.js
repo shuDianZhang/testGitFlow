@@ -25,5 +25,9 @@ function mergeMaster() {
 }
 
 function merge1() {
+
+}
+
+function merge2 () {
   
 }
