@@ -31,3 +31,6 @@ function version3() {}
 function version11() {
   
 }
+
+// 开始开发新功能
+function gongneg1() {}
