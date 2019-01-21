@@ -32,7 +32,10 @@ function version11() {
   
 }
 
-// 开始开发新功能
-function gongneg1() {}
+function hotfix() {
+  // 修复某些东西，啊啊啊啊啊
+}
 
-function gongnegn2() {}
+function hotfixAgain() {
+  // 再次修复某些东西，啊啊啊啊啊 
+}
