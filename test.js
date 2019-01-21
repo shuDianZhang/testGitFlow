@@ -34,3 +34,5 @@ function version11() {
 
 // 开始开发新功能
 function gongneg1() {}
+
+function gongnegn2() {}
