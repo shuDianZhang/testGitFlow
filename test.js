@@ -23,3 +23,11 @@ function merge2 () { }
 function version1 () {
   
 }
+
+function hotfix() {
+  // 修复某些东西，啊啊啊啊啊
+}
+
+function hotfixAgain() {
+  // 再次修复某些东西，啊啊啊啊啊 
+}
