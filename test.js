@@ -39,3 +39,8 @@ function hotfix() {
 function hotfixAgain() {
   // 再次修复某些东西，啊啊啊啊啊 
 }
+
+
+function BJIC() {
+
+}
