@@ -33,6 +33,6 @@ function hotfixAgain() {
 }
 
 
-function testHotFix() {
-  
+function BJIC() {
+
 }
